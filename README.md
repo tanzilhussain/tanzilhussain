@@ -6,7 +6,7 @@ Whether it’s turning a “black box” fraud model into an **educational dashb
 
 ---
 
-# 🧩 My Toolbox (Not Just Buzzwords)  
+# 🧩 My Toolbox
 
 - **Languages**: Python · TypeScript · R · SQL · C++  
 - **AI/ML**: scikit-learn · XGBoost · SHAP · Transformers  
