@@ -43,6 +43,7 @@ Built for **explainability, not mystery**.
 **210 contributions this year** │ Projects in AI, fraud detection, NLP, automation  
 
 ███████░░░░░░░░░░░░░░░░░░░░░░░░
+
 Always shipping. Always learning.
 
 ---
