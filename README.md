@@ -1,5 +1,4 @@
-```markdown
- 🌍 Hello, I’m Tanzil  
+🌍 Hello, I’m Tanzil  
 
 I don’t just build projects, rather, I design **experiences** where technology meets people.  
 Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt AI**, or automating **documents with agentic AI**, my goal is always the same:  
@@ -36,13 +35,11 @@ The hub of who I am.
 
 🌀 My GitHub in Motion  
 
-```
 
 210 contributions this year │ Projects in AI, fraud detection, NLP, automation
 ███████░░░░░░░░░░░░░░░░░░░░░░░░
 Always shipping. Always learning.
 
-```
 
 ✨ Outside Code  
 
@@ -56,4 +53,4 @@ Always shipping. Always learning.
 📌 [tanzilhussain.com](https://tanzilhussain.com) ·  
 💼 [LinkedIn](https://www.linkedin.com/in/tanzilhussain) ·  
 📂 [GitHub](https://github.com/tanzilhussain)  
-```
+
