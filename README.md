@@ -45,10 +45,6 @@ Built for **explainability, not mystery**.
 ███████░░░░░░░░░░░░░░░░░░░░░░░░
 Always shipping. Always learning.
 
-yaml
-Copy
-Edit
-
 ---
 
 # ✨ Outside Code  
