@@ -1,6 +1,6 @@
 # 🌍 Hello, I’m Tanzil  
 
-I don’t just build projects — I design **experiences** where technology meets people.  
+I don’t just build projects. Rather, I design **experiences** where technology meets people.  
 Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt AI**, or automating **documents with agentic AI**, my goal is always the same:  
 👉 make tech more transparent, accessible, and impactful.  
 
