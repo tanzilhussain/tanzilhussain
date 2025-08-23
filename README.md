@@ -38,17 +38,7 @@ Built for **explainability, not mystery**.
 
 ---
 
-# 🌀 My GitHub in Motion  
-
-**210 contributions this year** │ Projects in AI, fraud detection, NLP, automation  
-
-███████░░░░░░░░░░░░░░░░░░░░░░░░
-
-Always shipping. Always learning.
-
----
-
-# ✨ Outside Code  
+# ✨ Interests
 
 - 📸 Photography side hustle (*my camera = Tancam*)  
 - 🌱 Advocate for financial literacy & equity  
