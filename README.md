@@ -1,7 +1,7 @@
 # 🌍 Hello, I’m Tanzil  
 
 I don’t just build projects. Rather, I design **experiences** where technology meets people.  
-Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt AI**, or automating **documents with agentic AI**, my goal is always the same:  
+Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt LLMs**, or automating **documents with agentic AI**, my goal is always the same:  
 👉 make tech more transparent, accessible, and impactful.  
 
 ---
@@ -19,27 +19,23 @@ Whether it’s turning a “black box” fraud model into an **educational dashb
 
 # 🚀 Projects  
 
-## 💳 Transaction Fraud Risk Analyzer  
-Built for **explainability, not mystery**.  
+## 💳 Transaction Fraud Risk Analyzer   
 - Interactive Streamlit dashboard simulating fraud detection decisions  
 - SHAP/LIME visuals that show **why** transactions are flagged  
 - Helps promote financial literacy + transparency  
 
 ## 💬 SmartPrompt  
-*Meta-tooling for the AI era.*  
 - Chrome extension analyzing ChatGPT prompts  
 - Tracks tone, verbosity, and intent  
 - Helps users write clearer, more efficient prompts  
 
-## 🌐 Portfolio Website  
-*The hub of who I am.*  
+## 🌐 Portfolio Website   
 - Built with React + TypeScript  
 - Clean, animated, and personal  
 
 ---
 
 # ✨ Interests
-
 - 📸 Photography side hustle (*my camera = Tancam*)  
 - 🌱 Advocate for financial literacy & equity  
 - 🌍 Exploring AI for international development  
