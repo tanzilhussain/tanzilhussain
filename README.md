@@ -1,4 +1,4 @@
-# 🌍 Hello, I’m Tanzil  
+# 🌍 Hello, I’m Tanzil Hussain
 
 I don’t just build projects. Rather, I design **experiences** where technology meets people.  
 Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt LLMs**, or automating **documents with agentic AI**, my goal is always the same:  
