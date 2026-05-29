@@ -1,8 +1,8 @@
 # Hey, I'm Tanzil 👋
 
-USC student studying AI for Business. I build things at the intersection of AI, product, and people — usually because something annoyed me or seemed like it *should* exist.
+USC student studying AI for Business. I build things at the intersection of AI, product, and people.
 
-Right now I'm interning on MongoDB's Internal AI team in Palo Alto this summer and building [PlanSC](https://github.com/tanzilhussain), an AI-powered course planner for USC students (WebReg is genuinely painful).
+Right now I'm interning on MongoDB's Internal AI team in Palo Alto this summer and building [PlanSC](https://github.com/tanzilhussain), an AI-powered course planner for USC students.
 
 ---
 
