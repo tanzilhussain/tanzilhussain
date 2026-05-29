@@ -1,51 +1,41 @@
-# 🌍 Hello, I’m Tanzil Hussain
+# Hey, I'm Tanzil 👋
 
-I don’t just build projects. Rather, I design **experiences** where technology meets people.  
-Whether it’s turning a “black box” fraud model into an **educational dashboard**, building a **browser extension that reflects how you prompt LLMs**, or automating **documents with agentic AI**, my goal is always the same:  
-👉 make tech more transparent, accessible, and impactful.  
+USC student studying AI for Business. I build things at the intersection of AI, product, and people — usually because something annoyed me or seemed like it *should* exist.
 
----
-
-# 🧩 My Toolbox
-
-- **Languages**: Python · TypeScript · R · SQL · C++  
-- **AI/ML**: scikit-learn · XGBoost · SHAP · Transformers  
-- **Web/App**: React · FastAPI · Flask · Streamlit · Chrome Extensions  
-- **Cloud & Data**: AWS (Bedrock, Lambda, Aurora, Cognito) · Supabase · PostgreSQL  
-
-💡 I like working at the edge of **data, AI, and product strategy**.  
+Right now I'm interning on MongoDB's Internal AI team in Palo Alto this summer and building [PlanSC](https://github.com/tanzilhussain), an AI-powered course planner for USC students (WebReg is genuinely painful).
 
 ---
 
-# 🚀 Projects  
+## What I've Built
 
-## 💳 Transaction Fraud Risk Analyzer   
-- Interactive Streamlit dashboard simulating fraud detection decisions  
-- SHAP/LIME visuals that show **why** transactions are flagged  
-- Helps promote financial literacy + transparency  
+**Transaction Fraud Risk Analyzer**  
+A Streamlit dashboard that doesn't just flag fraud — it explains *why*. SHAP/LIME visualizations so the model's decisions aren't a black box. Built this because I think financial literacy matters and "the algorithm said so" isn't good enough.
 
-## 💬 SmartPrompt  
-- Chrome extension analyzing ChatGPT prompts  
-- Tracks tone, verbosity, and intent  
-- Helps users write clearer, more efficient prompts  
+**SmartPrompt**  
+Chrome extension that watches how you prompt ChatGPT and gives you feedback — tone, verbosity, intent. Turns out most people (including me) could prompt a lot better.
 
-## 🌐 Portfolio Website   
-- Built with React + TypeScript  
-- Clean, animated, and personal  
+**Portfolio Site**  
+React + TypeScript. Built it myself. You can judge the design at [tanzilhussain.com](https://tanzilhussain.com).
 
 ---
 
-# ✨ Interests
-- 📸 Photography side hustle (*my camera = Tancam*)  
-- 🌱 Advocate for financial literacy & equity  
-- 🌍 Exploring AI for international development  
+## Stack
+
+Python · TypeScript · R · SQL · C++  
+scikit-learn · XGBoost · SHAP · Transformers  
+React · FastAPI · Flask · Streamlit  
+AWS (Bedrock, Lambda, Aurora) · Supabase · PostgreSQL
 
 ---
 
-# 🤝 Let’s Connect  
+## Other Stuff
 
-- 📌 [tanzilhussain.com](https://tanzilhussain.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanzilhussain)  
-- 📂 [GitHub](https://github.com/tanzilhussain)  
+- 📸 I shoot photos on the side — my camera goes by Tancam
+- 🌍 Interested in AI for international development and financial equity
+- 🔭 Always working on something. Usually several things.
 
 ---
+
+## Find Me
+
+[tanzilhussain.com](https://tanzilhussain.com) · [LinkedIn](https://www.linkedin.com/in/tanzilhussain) · [GitHub](https://github.com/tanzilhussain)
