@@ -1,41 +1,35 @@
-# Hey, I'm Tanzil 👋
+# Hi, I'm Tanzil
 
-USC student studying AI for Business. I build things at the intersection of AI, product, and people.
+I'm a junior at USC studying AI for Business, with a minor in applied analytics. I want to work in product, and most of what I build starts as a problem I or my friends ran into.
 
-Right now I'm interning on MongoDB's Internal AI team in Palo Alto this summer and building [PlanUSC](https://github.com/tanzilhussain), an AI-powered course planner for USC students.
+**Now:** technology intern at FOX this fall, and building course registration tools with BUAI Builder Hub at USC.
 
----
+**This past summer:** AI product management intern on MongoDB's internal AI team in Palo Alto.
 
-## What I've Built
+## Projects
 
-**Transaction Fraud Risk Analyzer**  
-A Streamlit dashboard that doesn't just flag fraud — it explains *why*. SHAP/LIME visualizations so the model's decisions aren't a black box. Built this because I think financial literacy matters and "the algorithm said so" isn't good enough.
+**[RegCheck](https://usc-bbh.github.io/next-sem-validator/)** ([repo](https://github.com/usc-bbh/next-sem-validator))  
+You upload your STARS degree report, pick sections for next semester, and it checks the schedule before you register: prerequisites, D-clearance, time conflicts, lecture/lab pairings. The parser and the Python validator both run in the browser (via Pyodide), so the report never leaves your computer. I own the parser, the validator, and the app.
 
-**SmartPrompt**  
-Chrome extension that watches how you prompt ChatGPT and gives you feedback — tone, verbosity, intent. Turns out most people (including me) could prompt a lot better.
+**[STARS Redactor](https://huggingface.co/spaces/buai-builder-hub/STARSRedacter)**  
+Removes your name, student ID, and grades from a STARS PDF in memory, so students can share their reports with us for testing without giving away their transcripts. RegCheck's feedback page runs the same code in the browser.
 
-**Portfolio Site**  
-React + TypeScript. Built it myself. You can judge the design at [tanzilhussain.com](https://tanzilhussain.com).
+**[Hotel Pricing Engine](https://github.com/tanzilhussain/Peregrine-Consulting-Hotel-Pricing-Engine)**  
+Consulting project with Peregrine Consulting through Kappa Theta Pi. Models that predict occupancy, average daily rate, and RevPAR to inform hotel pricing.
 
----
+**[Transaction Fraud Risk Analyzer](https://github.com/tanzilhussain/transaction-fraud-risk-analyzer)**  
+Streamlit dashboard for a fraud model that shows the reasoning behind each flag with SHAP and LIME.
 
-## Stack
+**[SmartPrompt](https://github.com/tanzilhussain/SmartPrompt)**  
+Chrome extension that gives you feedback on your ChatGPT prompts: tone, length, and what you were actually asking for.
 
-Python · TypeScript · R · SQL · C++  
-scikit-learn · XGBoost · SHAP · Transformers  
-React · FastAPI · Flask · Streamlit  
-AWS (Bedrock, Lambda, Aurora) · Supabase · PostgreSQL
+## Tools I use
 
----
+- Python, TypeScript/JavaScript, SQL, R, C++
+- React, Vite, FastAPI, Streamlit, Pyodide
+- scikit-learn, XGBoost, SHAP, Hugging Face Transformers, Claude API
+- AWS (Bedrock, Lambda, Aurora), Supabase, PostgreSQL
 
-## Other Stuff
+Outside of school I take a lot of photos.
 
-- 📸 I shoot photos on the side — my camera goes by Tancam
-- 🌍 Interested in AI for international development and financial equity
-- 🔭 Always working on something. Usually several things.
-
----
-
-## Find Me
-
-[tanzilhussain.com](https://tanzilhussain.com) · [LinkedIn](https://www.linkedin.com/in/tanzilhussain) · [GitHub](https://github.com/tanzilhussain)
+[tanzilhussain.com](https://tanzilhussain.com) · [LinkedIn](https://www.linkedin.com/in/tanzilhussain)
